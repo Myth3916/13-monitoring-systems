@@ -2,3 +2,5 @@
 __pycache__/
 .env
 tick-stack/telegraf/.cache/
+tick-stack/documentation/
+tick-stack/images/
